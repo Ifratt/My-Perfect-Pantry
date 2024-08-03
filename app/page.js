@@ -286,7 +286,7 @@ export default function Home() {
       </Box>
 
       <Box
-        width="800px" 
+        width="80%" 
         height={'400px'}
         bgcolor={"rgba(108, 144, 193, 0.6)"} //background color
         display="grid"
