@@ -375,7 +375,7 @@ export default function Home() {
           </Box>
         ))}
       </Box>
-      <Typography sx={{color: '#c2d0f5', fontSize: '12px'}}>"Icon made by Pixel perfect from www.flaticon.com" </Typography>
+      <Typography sx={{color: '#c2d0f5', fontSize: '12px'}}>Icon made by Pixel perfect from www.flaticon.com</Typography>
 
     </Box>
   );
